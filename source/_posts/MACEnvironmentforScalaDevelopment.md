@@ -4,7 +4,11 @@ catalog: true
 date: 2017-07-25 22:19:43
 subtitle: Installation of essential software
 header-img:
-tags: Scala, Mac OS X, Development Environment
+tags: 
+- Scala 
+- Mac OS X
+- Development Environment
+
 ---
 
 # MAC Environment for Scala Development
