@@ -3,8 +3,8 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Cubean Blog
-subtitle: Technical Blog
+title: Change the world with AI and IoT
+subtitle: 'We should continually be striving to transform every art into a science:in the process, we advance the art. - Donald Knuth'
 author: Cubean Liu
 language:
 timezone: Australia/Sydney 
@@ -19,13 +19,13 @@ permalink_defaults:
 #Custom Setting Start
 
 # Site settings
-SEOTitle: Cubean | 软件技术博客
+SEOTitle: Cubean Blog | 软件技术博客
 email: cubean.liu@gmail.com
-description: ""
-keyword: ""
+description: "Cubean's software technical blog"
+keyword: "Blog, Scala, Java, Bigdata, Spark, Play, Motion Control, Smart Grid, IoT, 大数据, 物联网"
 header-img: img/header_img/home-bg-2-dark.png
-signature: true #show signature
-signature-img: img/signature/BeanTechSign-white.png 
+signature: false #show signature
+# signature-img: img/signature/BeanTechSign-white.png 
 
 
 # SNS settings
@@ -33,7 +33,7 @@ signature-img: img/signature/BeanTechSign-white.png
 # weibo_username:     Demonbaneen
 # zhihu_username:     Demonbane
 github_username:    Cubean
-# twitter_username:   Demonbane_x
+twitter_username:   CubeanLiu
 facebook_username:  Cubean.liu
 linkedin_username:  Cubean
 
@@ -54,8 +54,8 @@ duoshuo_share: true                     # set to false if you want to use Commen
 # Baidu Analytics
 # ba_track_id: 4cc1f2d8f3067386cc5cdb626a202900
 # Google Analytics
-ga_track_id: 'UA-XXXXXXXX-X'          # Format: UA-xxxxxx-xx
-ga_domain: yoursite
+ga_track_id: 'UA-103245121-1'          # Format: UA-xxxxxx-xx
+ga_domain: cubean.github.io
 
 
 # Sidebar settings
@@ -86,9 +86,6 @@ friends: [
     {
         title: "Cubean Blog",
         href: "http://cubean.github.io"
-    },{
-        title: "It Helps SEO",
-        href: "#"
     }
 ]
 

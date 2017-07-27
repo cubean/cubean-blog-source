@@ -5,3 +5,8 @@
 # https://github.com/chriskempson/tomorrow-theme
 # night yilia - https://github.com/litten/hexo-theme-yilia
 highlight_theme: night
+
+google_analytics:
+  enable: true
+  id: UA-103245121-1
+  site: auto
